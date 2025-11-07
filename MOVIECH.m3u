@@ -1,0 +1,59 @@
+#EXTM3U
+
+#EXTINF:-1,SONY PIX HD
+http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/1062.ts
+
+#EXTINF:-1,STAR MOVIES HD
+http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/1169.ts
+
+#EXTINF:-1,STAR MOVIES SELECT
+http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/745.ts
+
+#EXTINF:-1,MOVIES NOW HD
+http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/1428.ts
+
+#EXTINF:-1,ROMEDY NOW HD
+http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/1447.ts
+
+#EXTINF:-1,MNX HD
+http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/746.ts
+
+#EXTINF:-1,MN+ HD
+http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/1170.ts
+
+#EXTINF:-1,AMC HD
+http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/1442.ts
+
+#EXTINF:-1,AND FLIX HD
+http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/744.ts
+
+#EXTINF:-1,AND PRIVE HD
+http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/481.ts
+
+#EXTINF:-1,SONY MOVIES
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+
+#EXTINF:-1,MIRAMAX MOVIES CHANNEL 
+https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
+
+#EXTINF:-1,MOVIESPHERE By Lionsgate
+https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
+
+#EXTINF:-1,UNIVERSAL MOVIES
+https://raw.githubusercontent.com/mystery75/m3u8/main/UNIVERSALMOV.m3u8
+
+#EXTINF:-1,OUTERSPHERE by Lionsgate
+https://raw.githubusercontent.com/mystery75/m3u8/main/OUTERSPHERE.m3u8
+
+#EXTINF:-1,STAR CINEMA
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=6743dbc3fb7aa20b270802ff&AV_CHANNEL_NAME=Starmedia&AV_CONTENT_LANGUAGE=en&AV_CONTENT_RATING=TV-PG&AV_CONTENT_GENERE=907&cb=1760690422298&AV_APPPKGNAME=com.seraphic.metaxplay&AV_APPNAME=MetaX
+
+#EXTINF:-1,ACTION HOLLYWOOD MOVIES
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-actionhollywood-samsungnz/cb553e1c796c648c9dd43e6ed9ef41a0df243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27756c49e0a957f378bbdbe306f2c180680585ee2be5da5edf50f458e6ef5b0144c887e42e2d45fc8d54abb9d865a9f4a9b76f31dc890a28f864481849601066688416180f07ae3e249bb8b3686d29365308c6121481b4694ccf99c6f0ff68cc7c19a85af9e76f612b4f94d3bdf30c96ab54a9d338b7eab10a6ef0cd8c54237e9224bc694081b4a83e0ae9ee9343ffd4aeeb8e6d33102f12ee17135aa4fed0e514ba0efc4028dcd1693f62c83f44b0834c1924495d7d4e98be1d91eca778bafa6e9ea4051da591bcb7ddbbfd54bbdf72596ee594a7d5e4dacd578c588d052315882e7ea51f91c01b0d78782905b759a20536de16edd54127f8c1a583cb47db7ca672cbe2f04d36166bb4063d40bbc993ce5abded203399ed7d30daa3cb8fb5984b64a824508742effb220564e493df7eb65063f308366ecc1c5ec724651b8a683ae8e0376577924530a8af0ee3fcedd97674e40b3264c0a431919920bc17a9f51197249e72a93fd593ad57c6247808030525d6093b2c1a28fc4c549b03f9e8fca30213f5674ae7162026bc0bd9956ed32292628bde1d3a18d1a61eae215ae187cb179c255f849761f8192/82/640x360_1020800/index.m3u8
+
+
+
+
+
+
+
