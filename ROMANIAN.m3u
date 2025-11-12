@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="https://dshm.tmsimg.com/assets/s60506_ll_h15_ab.png?w=360&amp;h=270" group-title="",Disney Junior
+https://gcn-f2.bozztv.com/gcntv-disneyjunior/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://dshm.tmsimg.com/assets/s41223_ll_h15_aa.png?w=360&amp;h=270" group-title="",Disney Channel
+https://gcn-f2.bozztv.com/gcntv-disneychannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png" group-title="",Nickelodeon
+https://gcn-f2.bozztv.com/gcntv-nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-3-cnn-hd.jpg" group-title="",Antena 3
+https://glb.bozztv.com/glb/gcntv-antena3/index.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://dshm.tmsimg.com/assets/s59562_ll_h15_aa.png?w=360&amp;h=270" group-title="",Cartoon Network
+https://glb.bozztv.com/glb/gcntv-cartoonnetwork/index.m3u8
+#EXTINF:-1 tvg-id="Warner TV" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/warner-tv.jpg" group-title="",Warner TV
+https://glb.bozztv.com/glb/gcntv-warnertv/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons" tvg-logo="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/ImagesEPG/EventImages/IESVC1211_f.png" group-title="",Nicktoons
+https://gcn-f2.bozztv.com/gcntv-nicktoons/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://dshm.tmsimg.com/assets/s60295_ll_h15_aa.png?w=360&amp;h=270" group-title="",Nick Jr.
+https://gcn-f2.bozztv.com/gcntv-nickjr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Jimjam" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/JJ7.png" group-title="",Jimjam
+https://gcn-f2.bozztv.com/gcntv-jimjam/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Da Vinci" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/da-vinci.jpg" group-title="",Da Vinci
+https://gcn-f2.bozztv.com/gcntv-davinci/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Minimax" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/minimax-hu.jpg" group-title="",Minimax
+https://fl1004.bozztv.com/gcntv-childrenschannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="History" tvg-logo="https://www.tvmustra.hu/logok/csatikon/thehistorychannel.gif" group-title="",History
+https://fl1004.bozztv.com/gcntv-historyhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://dshm.tmsimg.com/assets/s111055_h3_aa.png?w=360&amp;h=270" group-title="",HGTV
+https://glb.bozztv.com/glb/gcntv-travelchannelhd/index.m3u8
+#EXTINF:-1 tvg-id="Diva" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2025/03/26/15/10/41/xl_diva_light.png" group-title="",Diva
+https://glb.bozztv.com/glb/gcntv-diva/index.m3u8
+#EXTINF:-1 tvg-id="Favorit TV" tvg-logo="https://program-tv.net/images/favorit_tv_small.png" group-title="",Favorit TV
+https://glb.bozztv.com/glb/gcntv-favorittv/index.m3u8
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="http://dshm.tmsimg.com/assets/s25068_ll_h15_ab.png?w=360&amp;h=270" group-title="",National Geographic
+https://glb.bozztv.com/glb/gcntv-natgeohd/index.m3u8
+#EXTINF:-1 tvg-id="Kapital TV" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/kapital-tv.jpg" group-title="",Kapital TV
+https://glb.bozztv.com/glb/gcntv-kapitaltv/index.m3u8
+#EXTINF:-1 tvg-id="Kiss TV" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/kiss-tv.jpg" group-title="",Kiss TV
+https://glb.bozztv.com/glb/gcntv-kisstv/index.m3u8
+#EXTINF:-1 tvg-id="Inedit TV" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/inedit-tv.jpg" group-title="",Inedit TV
+https://glb.bozztv.com/glb/gcntv-inedittv/index.m3u8
+#EXTINF:-1 tvg-id="National TV" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/national-tv.jpg" group-title="",National TV
+https://glb.bozztv.com/glb/gcntv-nationaltv/index.m3u8
+#EXTINF:-1 tvg-id="Antena Stars" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-stars.jpg" group-title="",Antena Stars
+https://glb.bozztv.com/glb/gcntv-antenastars/index.m3u8
+#EXTINF:-1 tvg-id="Antena 1" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-1.jpg" group-title="",Antena 1
+https://glb.bozztv.com/glb/gcntv-antena1hd/index.m3u8
+#EXTINF:-1 tvg-id="Nostalgia TV" group-title="",Nostalgia TV
+https://glb.bozztv.com/glb/gcntv-nostalgiatv/index.m3u8
+#EXTINF:-1 tvg-id="Pro TV" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/pro-tv.jpg" group-title="",Pro TV
+https://glb.bozztv.com/glb/gcntv-protvhd/index.m3u8
+#EXTINF:-1 tvg-id="TVR International" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-international.jpg" group-title="",TVR International
+https://glb.bozztv.com/glb/gcntv-tvrinternational/index.m3u8
+#EXTINF:-1 tvg-id="BBC World" tvg-logo="https://tvwish.com/Img/Channel/725.png" group-title="",BBC World
+https://rpn.bozztv.com/GCN-Fwtrn03Ixgt0/gin-bbcworld/index.m3u8
+#EXTINF:-1 tvg-id="Realitatea Plus" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/realitatea-plus.jpg" group-title="",Realitatea Plus
+https://glb.bozztv.com/glb/gcntv-realitateatv/index.m3u8
+#EXTINF:-1 tvg-id="Nasul TV" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/nasul-tv.jpg" group-title="",Nasul TV
+https://glb.bozztv.com/glb/gcntv-nasultv/index.m3u8
+#EXTINF:-1 tvg-id="Visat Kino" group-title="",Visat Kino
+https://glb.bozztv.com/glb/gcntv-tv1000/index.m3u8
+#EXTINF:-1 tvg-id="Speranta" group-title="",Speranta
+https://glb.bozztv.com/glb/gcntv-sperantatv/index.m3u8
+#EXTINF:-1 tvg-id="Prima TV" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/prima-tv.jpg" group-title="",Prima TV
+https://glb.bozztv.com/glb/gcntv-sperantatv/index.m3u8
+#EXTINF:-1 tvg-id="Rtn" group-title="",Rtn
+https://glb.bozztv.com/glb/gcntv-rtn/index.m3u8
+#EXTINF:-1 tvg-id="Kanal D" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/kanal-d.jpg" group-title="",Kanal D
+https://glb.bozztv.com/glb/gcntv-kanaldhd/index.m3u8
+#EXTINF:-1 tvg-id="National Geographic Wild" tvg-logo="https://www.tvmustra.hu/logok/csatikon/ngcwild.gif" group-title="",National Geographic Wild
+https://glb.bozztv.com/glb/gcntv-natgeowildhd/index.m3u8
+#EXTINF:-1 tvg-id="Credo TV" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/credo-tv.jpg" group-title="",Credo TV
+https://glb.bozztv.com/glb/gcntv-credotv/index.m3u8
+#EXTINF:-1 tvg-id="Romania TV" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/romania-tv-hd.jpg" group-title="",Romania TV
+https://fl1003.bozztv.com/gcntv-romaniatv/index.m3u8
+#EXTINF:-1 tvg-id="Kanal D2" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/kanal-d2.jpg" group-title="",Kanal D2
+https://glb.bozztv.com/glb/gcntv-bucurestitv/index.m3u8
+#EXTINF:-1 tvg-id="B1 TV" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/b1-tv.jpg" group-title="",B1 TV
+https://glb.bozztv.com/glb/gcntv-b1tv/index.m3u8
+#EXTINF:-1 tvg-id="Etno TV" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/etno-tv.jpg" group-title="",Etno TV
+https://glb.bozztv.com/glb/gcntv-etnotvhd/index.m3u8
+#EXTINF:-1 tvg-id="Taraf TV" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/taraf-tv.jpg" group-title="",Taraf TV
+https://glb.bozztv.com/glb/gcntv-taraftv/index.m3u8
+#EXTINF:-1 tvg-id="Epic Drama" group-title="",Epic Drama
+https://glb.bozztv.com/glb/gcntv-epicdrama/index.m3u8
+#EXTINF:-1 tvg-id="Trinitas TV" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/trinitas-tv.jpg" group-title="",Trinitas TV
+https://glb.bozztv.com/glb/gcntv-trinitastv/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/eurosport_1-mediano.png" group-title="",Eurosport 1
+https://fl1002.bozztv.com/gcntv-eurosport1hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/eurosport_2-mediano.png" group-title="",Eurosport 2
+https://fl1002.bozztv.com/gcntv-eurosport2hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="TVR 2" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-2.jpg" group-title="",TVR 2
+https://glb.bozztv.com/glb/gcntv-tvr2/index.m3u8
+#EXTINF:-1 tvg-id="TVR 3" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/tvr-3.jpg" group-title="",TVR 3
+https://glb.bozztv.com/glb/gcntv-tvr3/index.m3u8
+#EXTINF:-1 tvg-id="Digi Sport 1" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-1-hd.jpg" group-title="",Digi Sport 1
+https://glb.bozztv.com/glb/gcntv-digisporthd/index.m3u8
+#EXTINF:-1 tvg-id="Travel Mix" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/travel-mix.jpg" group-title="",Travel Mix
+https://fl1002.bozztv.com/gcntv-travelmix/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="France 24 (English)" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/234/image" group-title="",France 24 (English)
+https://rpn.bozztv.com/GCN-Gredvrfl05Q3/gin-france24english/index.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://dshm.tmsimg.com/assets/s73822_ll_h15_ae.png?w=360&amp;h=270" group-title="",TLC
+https://glb.bozztv.com/glb/gcntv-tlc/index.m3u8
+#EXTINF:-1 tvg-id="Digi Sport 2" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-2.jpg" group-title="",Digi Sport 2
+https://glb.bozztv.com/glb/gcntv-globalsports/index.m3u8
+#EXTINF:-1 tvg-id="Digi Sport 3" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-3.jpg" group-title="",Digi Sport 3
+https://glb.bozztv.com/glb/gcntv-globalsports2/index.m3u8
+#EXTINF:-1 tvg-id="Digi Sport 4" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-sport-4.jpg" group-title="",Digi Sport 4
+https://glb.bozztv.com/glb/gcntv-digisport4hd/index.m3u8
+#EXTINF:-1 tvg-id="Digi 24" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/digi-24.jpg" group-title="",Digi 24
+https://glb.bozztv.com/glb/gcntv-digi24hd/index.m3u8
+#EXTINF:-1 tvg-id="Film Cafe" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/film-cafe.jpg" group-title="",Film Cafe
+https://fl1002.bozztv.com/gcntv-filmcafe/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="TV Paprika" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/tv-paprika.jpg" group-title="",TV Paprika
+https://glb.bozztv.com/glb/gcntv-tvpaprika/index.m3u8
+#EXTINF:-1 tvg-id="Cinematron" group-title="",Cinematron
+https://glb.bozztv.com/glb/gcntv-cinemaraton/index.m3u8
+#EXTINF:-1 tvg-id="Antena International" tvg-logo="https://static.cinemagia.ro/img/tv/stations_logo/40/antena-international.jpg" group-title="",Antena International
+https://glb.bozztv.com/glb/gcntv-antenainternatio/index.m3u8
+#EXTINF:-1 tvg-id="ZU TV" group-title="",ZU TV
+https://glb.bozztv.com/glb/gcntv-zutvhd/index.m3u8
+#EXTINF:-1 tvg-id="UTV HD" group-title="",UTV HD
+https://glb.bozztv.com/glb/gcntv-utvhd/index.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera" group-title="",Al Jazeera
+https://rpn.bozztv.com/GCN-Gredvrfl05Q3/gin-aljazeeraint/index.m3u8
+#EXTINF:-1,KBS 1
+https://hello.kbshlsfree.workers.dev/free/channel/11/master.m3u8
+#EXTINF:-1,KBS 2
+https://hello.kbshlsfree.workers.dev/free/channel/12/master.m3u8
+#EXTINF:-1,KBS 24
+https://hello.kbshlsfree.workers.dev/free/channel/81/master.m3u8
+#EXTINF:-1,KBS Drama
+https://hello.kbshlsfree.workers.dev/free/channel/N91/master.m3u8
+#EXTINF:-1,KBS Joy
+https://hello.kbshlsfree.workers.dev/free/channel/N92/master.m3u8
+#EXTINF:-1,KBS Kids
+https://hello.kbshlsfree.workers.dev/free/channel/N96/master.m3u8
+#EXTINF:-1,KBS Life
+https://hello.kbshlsfree.workers.dev/free/channel/N93/master.m3u8
+#EXTINF:-1,KBBS Story
+https://hello.kbshlsfree.workers.dev/free/channel/N94/master.m3u8
+#EXTINF:-1,KBS WORLD
+https://hello.kbshlsfree.workers.dev/free/channel/14/master.m3u8
