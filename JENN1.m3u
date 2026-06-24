@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="mgmhits.us" tvg-name="USA EPIX2" tvg-logo="http://23.227.147.172:80/images/0e6e1b00589f6861fe60fc452de012a5.png" group-title="USA Movies Channels",USA EPIX2
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176030.ts
+#EXTINF:-1 tvg-id="fx.us" tvg-name="USA FX" tvg-logo="http://172.110.220.61:80/images/30318a2847b7702901fdd0cc6259f5ed.png" group-title="USA Entertainment",USA FX
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176031.ts
+#EXTINF:-1 tvg-id="fx.us" tvg-name="USA FX East UHD" tvg-logo="http://23.227.147.172:80/images/edd4e5f02c8ac0873d0cddbe7ebe2187.png" group-title="USA Movies Channels",USA FX East UHD
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176033.ts
+#EXTINF:-1 tvg-id="fxm.us" tvg-name="USA FXM" tvg-logo="http://185.193.88.130:80/images/c71287c43d551d32173a280111ea60b0.png" group-title="USA Movies Channels",USA FXM
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176036.ts
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="USA FXX East" tvg-logo="http://172.110.220.61:80/images/a9ae2ad335e10d26c5b799fc83c380ac.png" group-title="USA Entertainment",USA FXX East
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176039.ts
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="USA FXX West" tvg-logo="http://23.227.147.172:80/images/42a29c7a04c0a4f901c6d49adb6305d8.jpg" group-title="USA Entertainment",USA FXX West
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176040.ts
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="USA HBO Hits East*" tvg-logo="http://185.193.88.130:80/images/daf846412b0f31b48b2ccef86ed6c527.png" group-title="USA Movies Channels",USA HBO Hits East*
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176041.ts
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="USA HBO Comedy*" tvg-logo="http://23.227.147.172:80/images/9633adbc8b8e7dfc94a7c4751a29a156.png" group-title="USA Movies Channels",USA HBO Comedy*
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176042.ts
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="USA HBO East*" tvg-logo="http://185.193.88.130:80/images/432f6e90069f10aead233f73b3124adb.png" group-title="USA Movies Channels",USA HBO East*
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176044.ts
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="USA HBO Drama*" tvg-logo="http://23.227.147.172:80/images/78a309225b4f19989839cf57c143d284.png" group-title="USA Movies Channels",USA HBO Drama*
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176048.ts
+#EXTINF:-1 tvg-id="hbowest.us" tvg-name="USA HBO West*" tvg-logo="http://172.110.220.61:80/images/04204fd4b50c90c84e75a5a04acb89e5.png" group-title="USA Movies Channels",USA HBO West*
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176050.ts
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="USA HBO Movies*" tvg-logo="http://172.110.220.61:80/images/b0c39e38cc277e3f422a9b2bb072a6a3.png" group-title="USA Movies Channels",USA HBO Movies*
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176052.ts
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="USA Showtime 2" tvg-logo="http://172.110.220.61:80/images/76b7aa65390e92be93a87801775bf0a3.jpg" group-title="USA Movies Channels",USA Showtime 2
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176054.ts
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="USA Paramount+ with SHOWTIME (East)" tvg-logo="http://185.193.88.130:80/images/b418326df0069776c6e643436cf376be.png" group-title="USA Movies Channels",USA Paramount+ with SHOWTIME (East)
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176056.ts
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="USA Showtime Extreme" tvg-logo="http://23.227.147.172:80/images/23f72f66a4f3db0db56be109094d4e1f.png" group-title="USA Movies Channels",USA Showtime Extreme
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176059.ts
+#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="USA Showtime Family Zone (East)" tvg-logo="http://23.227.147.172:80/images/3b64c9029dbaf13ab8965a6ee1223fd2.png" group-title="USA Movies Channels",USA Showtime Family Zone (East)
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176060.ts
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="USA Showtime Next" tvg-logo="http://23.227.147.172:80/images/065ebe759d35ca58ffa51018151f9e65.png" group-title="USA Movies Channels",USA Showtime Next
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176061.ts
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="USA Showtime Showcase*" tvg-logo="http://172.110.220.61:80/images/b7567a805f1f79da2a7993456322533d.png" group-title="USA Movies Channels",USA Showtime Showcase*
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176063.ts
+#EXTINF:-1 tvg-id="showtimewest.us" tvg-name="USA Paramount+ with SHOWTIME (West)" tvg-logo="http://185.193.88.130:80/images/f67aa5043d7c94bd3f4beeb4a387536e.png" group-title="USA Movies Channels",USA Paramount+ with SHOWTIME (West)
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176064.ts
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="USA Showtime Women" tvg-logo="http://172.110.220.61:80/images/5ed75344eb96820b9633fd99b7722948.png" group-title="USA Movies Channels",USA Showtime Women
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176065.ts
+#EXTINF:-1 tvg-id="sony.us" tvg-name="USA Sony Movie Channel" tvg-logo="http://23.227.147.172:80/images/f31b3b29c6ed1c43a29160ea7436e5c3.jpg" group-title="USA Movies Channels",USA Sony Movie Channel
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176066.ts
+#EXTINF:-1 tvg-id="sony.us" tvg-name="USA Sony Movie Channel LHD" tvg-logo="http://172.110.220.61:80/images/f31b3b29c6ed1c43a29160ea7436e5c3.jpg" group-title="USA Movies Channels",USA Sony Movie Channel LHD
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176067.ts
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="USA Starz Cinema" tvg-logo="http://172.110.220.61:80/images/fac417fbbbc0c99e284774dda1fd8b5c.png" group-title="USA Movies Channels",USA Starz Cinema
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176068.ts
+#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="USA Starz Comedy East" tvg-logo="http://185.193.88.130:80/images/66799aefe4ae6beac00ae0c6780c6763.png" group-title="USA Movies Channels",USA Starz Comedy East
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176069.ts
+#EXTINF:-1 tvg-id="starz.us" tvg-name="USA StarZ East" tvg-logo="https://starz.imgix.net/BuyStarz/international/sz-logo-2x.png?auto=compress,format" group-title="USA Movies Channels",USA StarZ East
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176071.ts
+#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="USA Starz Encore Action" tvg-logo="http://185.193.88.130:80/images/3dd9841fa1827fa26ba7368ce3d0d9bd.png" group-title="USA Movies Channels",USA Starz Encore Action
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176072.ts
+#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="USA STARZ ENCORE ACTION SD" tvg-logo="http://172.110.220.61:80/images/58ccaf7881b6c547374c60e39a9c09bc.png" group-title="USA Movies Channels",USA STARZ ENCORE ACTION SD
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176073.ts
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="USA Starz Encore Black" tvg-logo="http://23.227.147.172:80/images/b084042092516b7fdb3006236acef1ba.png" group-title="USA Movies Channels",USA Starz Encore Black
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176074.ts
+#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-name="USA Starz Encore Classic" tvg-logo="http://23.227.147.172:80/images/7d8fcad30515f4c068fe8b3c01f19786.png" group-title="USA Movies Channels",USA Starz Encore Classic
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176075.ts
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="USA Starz Encore East" tvg-logo="http://23.227.147.172:80/images/003caf1741e79662ea8cb73e50d586b9.png" group-title="USA Movies Channels",USA Starz Encore East
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176076.ts
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="USA Starz Encore Edge" tvg-logo="http://172.110.220.61:80/images/b30c83c3951d29c876700189b4e6bb7a.jpg" group-title="USA Movies Channels",USA Starz Encore Edge
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176077.ts
+#EXTINF:-1 tvg-id="starzencorefamily.us" tvg-name="USA Starz Encore Family" tvg-logo="http://185.193.88.130:80/images/a1255ab6b1c3498e3c1e0363bb051f38.png" group-title="USA Movies Channels",USA Starz Encore Family
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176078.ts
+#EXTINF:-1 tvg-id="360north.us" tvg-name="USA Starz Encore Suspense" tvg-logo="http://23.227.147.172:80/images/2ea4f440d12d08efea97d592167cf663.png" group-title="USA Movies Channels",USA Starz Encore Suspense
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176079.ts
+#EXTINF:-1 tvg-id="starzencorewest.us" tvg-name="USA Starz Encore West" tvg-logo="http://172.110.220.61:80/images/7cae7000a5e8a44cc4b71d9363a02ceb.png" group-title="USA Movies Channels",USA Starz Encore West
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176080.ts
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="USA Starz Encore Westerns" tvg-logo="http://172.110.220.61:80/images/e40f1bcc56b1f84d7f7474c594331288.png" group-title="USA Movies Channels",USA Starz Encore Westerns
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176081.ts
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="USA Starz in Black East" tvg-logo="http://23.227.147.172:80/images/f0e51eb496c1d82b5304116d516f0a3d.png" group-title="USA Movies Channels",USA Starz in Black East
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176082.ts
+#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="USA Starz Kids & Family" tvg-logo="http://23.227.147.172:80/images/a6596626085d2e16f02abc98b82d3f89.jpg" group-title="USA Family & Kids",USA Starz Kids & Family
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176083.ts
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="USA Starz West" tvg-logo="http://23.227.147.172:80/images/85c5f5ffb6f6f3dec97501947c4abf79.png" group-title="USA Movies Channels",USA Starz West
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176084.ts
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="USA Sundance" tvg-logo="http://185.193.88.130:80/images/a98c685117f20ad990629d650e8dbda3.png" group-title="USA Movies Channels",USA Sundance
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176085.ts
+#EXTINF:-1 tvg-id="gettv.us" tvg-name="USA GET TV" tvg-logo="http://23.227.147.172:80/images/5256d3b938e6fd2c214e9d29a9620672.png" group-title="USA Entertainment",USA GET TV
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175860.ts
+#EXTINF:-1 tvg-id="gacfamily.us" tvg-name="USA Great American Family (Country)" tvg-logo="http://172.110.220.61:80/images/954876aa2d1c0083bbb2cba449c2f18a.png" group-title="USA Entertainment",USA Great American Family (Country)
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175861.ts
+#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="USA GSN (Game Show Network)" tvg-logo="http://172.110.220.61:80/images/dab8215550fe4d73c6386330c5f61333.png" group-title="USA Entertainment",USA GSN (Game Show Network)
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175863.ts
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="USA Hallmark Channel" tvg-logo="http://23.227.147.172:80/images/4213e199f29e2b4dc0e525dc573dd4f7.png" group-title="USA Entertainment",USA Hallmark Channel
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175864.ts
+#EXTINF:-1 tvg-id="hallmarkfamily.us" tvg-name="USA Hallmark Drama (Hallmark Family)" tvg-logo="http://23.227.147.172:80/images/fc3c0fe6b9d10e6b0c4ef340b4da3f6f.png" group-title="USA Entertainment",USA Hallmark Drama (Hallmark Family)
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175866.ts
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="USA Hallmark Movies & Mysteries UHD" tvg-logo="http://185.193.88.130:80/images/b216a8c24d55f9dcafdd739fb3b04479.png" group-title="USA Entertainment",USA Hallmark Movies & Mysteries UHD
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175870.ts
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="USA Hallmark Movies & Mysteries LHD" tvg-logo="http://172.110.220.61:80/images/5c1276ce90fd2fef9da590adbd744ff0.jpg" group-title="USA Entertainment",USA Hallmark Movies & Mysteries LHD
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175871.ts
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="USA HGTV East*" tvg-logo="http://23.227.147.172:80/images/9f207ce51e91b2c2b6dcfe49f9f0a179.png" group-title="USA Entertainment",USA HGTV East*
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175873.ts
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="USA HGTV East UHD*" tvg-logo="http://185.193.88.130:80/images/6413fa9c943c4c2ad943d61a20b8193c.png" group-title="USA Entertainment",USA HGTV East UHD*
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175875.ts
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="USA HGTV West*" tvg-logo="http://185.193.88.130:80/images/a8e2a4a1693572a5a2bb0b85eafc6957.png" group-title="USA Entertainment",USA HGTV West*
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175877.ts
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="USA History East UHD" tvg-logo="http://23.227.147.172:80/images/c301e449bcb6c1fa8cdabad918d6a74f.png" group-title="USA Entertainment",USA History East UHD
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175878.ts
+#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-name="USA IFC" tvg-logo="http://185.193.88.130:80/images/67c66b7adaf62bd0ce9181dc0b718274.png" group-title="USA Entertainment",USA IFC
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175880.ts
+#EXTINF:-1 tvg-id="insp.us" tvg-name="USA INSP" tvg-logo="http://23.227.147.172:80/images/88a1f484fb48bcb378b2c7dacc81f036.png" group-title="USA Entertainment",USA INSP
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175882.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="USA Investigation Discovery East LHD*" tvg-logo="http://185.193.88.130:80/images/f98e870b0a836f6847bb08b77ade47ad.png" group-title="USA Entertainment",USA Investigation Discovery East LHD*
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175883.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="USA ID East UHD*" tvg-logo="http://185.193.88.130:80/images/ffdaf95be5a8d93fc1014969f5f5fab8.png" group-title="USA Entertainment",USA ID East UHD*
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175884.ts
+#EXTINF:-1 tvg-id="lafftv.us" tvg-name="USA Laff TV*" tvg-logo="http://185.193.88.130:80/images/bcfa48c5850b56af1da4d2656d807b58.png" group-title="USA Entertainment",USA Laff TV*
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175889.ts
+#EXTINF:-1 tvg-id="lawandcrime.us" tvg-name="USA Law And Crime" tvg-logo="http://172.110.220.61:80/images/5c1f97d94fbfcb1c393e2897fe19bfcc.png" group-title="USA Entertainment",USA Law And Crime
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175890.ts
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="USA Lifetime East UHD" tvg-logo="http://185.193.88.130:80/images/9122b5895d06e97b97bdbfd41e0a8e47.png" group-title="USA Entertainment",USA Lifetime East UHD
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175891.ts
+#EXTINF:-1 tvg-id="mavtv.us" tvg-name="USA MAV TV" tvg-logo="http://172.110.220.61:80/images/e3c8958a19e6b4e7dbe7364a7e4eb419.png" group-title="USA Entertainment",USA MAV TV
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175894.ts
+#EXTINF:-1 tvg-id="metv.us" tvg-name="USA MeTV" tvg-logo="http://23.227.147.172:80/images/a9ee80e62b40c3393457a06e0b39b42b.png" group-title="USA Entertainment",USA MeTV
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175895.ts
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA Nat Geo East" tvg-logo="http://172.110.220.61:80/images/c7b80593b3725b0fcca4f645f6430b7a.png" group-title="USA Entertainment",USA Nat Geo East
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175899.ts
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="USA Nat Geo Wild East UHD" tvg-logo="http://23.227.147.172:80/images/aa8e6f9a1a73dca0072c90dbbc532345.png" group-title="USA Entertainment",USA Nat Geo Wild East UHD
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175901.ts
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="USA Oprah Winfrey Network LHD" tvg-logo="http://185.193.88.130:80/images/4154cf9f3a6d98779121fccfb36d14f7.png" group-title="USA Entertainment",USA Oprah Winfrey Network LHD
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175904.ts
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="USA Oprah Winfrey Network OWN" tvg-logo="http://172.110.220.61:80/images/4154cf9f3a6d98779121fccfb36d14f7.png" group-title="USA Entertainment",USA Oprah Winfrey Network OWN
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175905.ts
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="USA Outdoor Channel" tvg-logo="http://172.110.220.61:80/images/11cd5992d7517c09fa396fcc7110ae89.png" group-title="USA Entertainment",USA Outdoor Channel
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175906.ts
+#EXTINF:-1 tvg-id="outsidetv.us" tvg-name="USA Outside TV" tvg-logo="http://23.227.147.172:80/images/c39af78b4d307d4cdec0eae6c0bf4ad9.png" group-title="USA Entertainment",USA Outside TV
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175907.ts
+#EXTINF:-1 tvg-id="ovation.us" tvg-name="USA Ovation" tvg-logo="http://23.227.147.172:80/images/225b4c26d549915bc60c1718eb780002.png" group-title="USA Entertainment",USA Ovation
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175909.ts
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="USA Oxygen East" tvg-logo="http://185.193.88.130:80/images/b026d2758ea148210219ba848441b87c.png" group-title="USA Entertainment",USA Oxygen East
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175911.ts
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="USA Oxygen West" tvg-logo="http://172.110.220.61:80/images/42a81e3d8770a4d4166aefb7e22ebf5c.jpg" group-title="USA Entertainment",USA Oxygen West
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175912.ts
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="USA Paramount East UHD" tvg-logo="http://23.227.147.172:80/images/8f91fff5f5426d4fe0589438724fc81f.png" group-title="USA Entertainment",USA Paramount East UHD
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175914.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tyson Fury The Gypsy King" tvg-logo="" group-title="24/7 Shows",24/7 Tyson Fury The Gypsy King
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175687.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Umbre" tvg-logo="https://next-episode.net/tv-shows-images/big/umbre.jpg" group-title="24/7 Shows",24/7 Umbre
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175689.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Unabomber In His Own Words" tvg-logo="" group-title="24/7 Shows",24/7 Unabomber In His Own Words
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175690.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Unanchored" tvg-logo="https://www.bravotv.com/sites/bravo/files/unanchored-season-1-hero-101-unanchored-same-vpr-producers.jpg" group-title="24/7 Reality",24/7 Unanchored
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175691.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Unbreakable Kimmy Schmidt" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2018/05/unbreakable-kimmy-schmidt-season-4-viewer-votes-590x331.jpg" group-title="24/7 Comedy",24/7 Unbreakable Kimmy Schmidt
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175693.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Undercover Boss" tvg-logo="" group-title="24/7 Documentary",24/7 Undercover Boss
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175694.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Unearthed" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2018/09/unearthed.jpg" group-title="24/7 Documentary",24/7 Unearthed
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175695.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Unhappily Ever After" tvg-logo="https://www.gstatic.com/tv/thumb/tvbanners/183967/p183967_b_v8_ac.jpg" group-title="24/7 Comedy",24/7 Unhappily Ever After
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175696.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Unorthodox" tvg-logo="" group-title="24/7 Drama",24/7 Unorthodox
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175698.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Unspeakable" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I3YmI4NmItOTkxNy00Y2YwLTgyY2YtM2Q2OTUxNjhhZDgzXkEyXkFqcGdeQXVyMDkyMDIyOQ@@._V1_.jpg" group-title="24/7 Drama",24/7 Unspeakable
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175699.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Unstoppable" tvg-logo="" group-title="24/7 Drama",24/7 Unstoppable
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175700.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Upstart Crow" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91aOrFZrNGL._SY445_.jpg" group-title="24/7 Comedy",24/7 Upstart Crow
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175701.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Urban Myths" tvg-logo="https://cdn.ratingraph.com/assets/images/shows/urban-myths-poster-63903.webp" group-title="24/7 Comedy",24/7 Urban Myths
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175702.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Utopia Falls" tvg-logo="" group-title="24/7 Drama",24/7 Utopia Falls
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175703.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vagabond" tvg-logo="https://6.viki.io/image/b3d66dcea4214b0897ff7130dc055299.jpeg" group-title="24/7 Drama",24/7 Vagabond
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175704.ts
+#EXTINF:-1 tvg-id="24Ghante.in" tvg-name="24/7 Vagrant Queen" tvg-logo="" group-title="24/7 Sci-fi",24/7 Vagrant Queen
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175705.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Van Helsing" tvg-logo="https://cdn.ukairdates.com/wp-content/uploads/2018/10/Van-Helsing.jpg" group-title="24/7 Mysteries",24/7 Van Helsing
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175706.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vanderpump Rules" tvg-logo="https://i.ytimg.com/vi/Xc5RKu49iG4/maxresdefault.jpg" group-title="24/7 Reality",24/7 Vanderpump Rules
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175707.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Veep" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2017/04/Veep-TV-show-on-HBO-canceled-or-season-7-canceled-or-renewed-Vulture-Watch.jpg" group-title="24/7 Comedy",24/7 Veep
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175708.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Very Cavallari" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Very_Cavallari.jpg" group-title="24/7 Reality",24/7 Very Cavallari
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175710.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Victoria" tvg-logo="https://4.bp.blogspot.com/-HY9EPdF7FKo/WLyQEUd3KoI/AAAAAAAAEAU/_UQNN6tFYkA1iqWP7NbPneE_Ud3cNYSrgCLcB/s1600/victoia_banner1.png" group-title="24/7 Drama",24/7 Victoria
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175712.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vida" tvg-logo="https://i.ytimg.com/sh/NdQrCIHhq1JVAzEeMlpTsQ/market.jpg" group-title="24/7 Drama",24/7 Vida
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175713.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Visible Out on Television" tvg-logo="" group-title="24/7 Shows",24/7 Visible Out on Television
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175716.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Walking Britains Lost Railways" tvg-logo="" group-title="24/7 Shows",24/7 Walking Britains Lost Railways
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175719.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Wayne" tvg-logo="" group-title="24/7 Drama",24/7 Wayne
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175723.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Web of Lies" tvg-logo="" group-title="24/7 Documentary",24/7 Web of Lies
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175724.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Weird City" tvg-logo="" group-title="24/7 Comedy",24/7 Weird City
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175725.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Wentworth Prison" tvg-logo="https://www.gstatic.com/tv/thumb/tvbanners/10154266/p10154266_b_v8_ae.jpg" group-title="24/7 Shows",24/7 Wentworth Prison
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175726.ts
+#EXTINF:-1 tvg-id="24Ghante.in" tvg-name="24/7 What If" tvg-logo="https://occ-0-990-987.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABTSNibMsR8H6eELyaKch41-pi4ymx9KBdmrjTKfrQU975WpKdHaJLNpf9vJekhIf69WMFvzVgjR1BM86E4rq29p_LzgNEz278Q.jpg" group-title="24/7 Shows",24/7 What If
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175728.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 What We Do in the Shadows" tvg-logo="" group-title="24/7 Comedy",24/7 What We Do in the Shadows
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175729.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 When Calls the Heart" tvg-logo="" group-title="24/7 Shows",24/7 When Calls the Heart
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/175731.ts
+
+
+
+
+
+
+
+
