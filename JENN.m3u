@@ -77,8 +77,6 @@ http://jackofclubs.vip:80/jennbetz1/flatbutton45/176080.ts
 http://jackofclubs.vip:80/jennbetz1/flatbutton45/176081.ts
 #EXTINF:-1 tvg-id="starzinblack.us" tvg-name="USA Starz in Black East" tvg-logo="http://23.227.147.172:80/images/f0e51eb496c1d82b5304116d516f0a3d.png" group-title="USA Movies Channels",USA Starz in Black East
 http://jackofclubs.vip:80/jennbetz1/flatbutton45/176082.ts
-#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="USA Starz Kids & Family" tvg-logo="http://23.227.147.172:80/images/a6596626085d2e16f02abc98b82d3f89.jpg" group-title="USA Family & Kids",USA Starz Kids & Family
-http://jackofclubs.vip:80/jennbetz1/flatbutton45/176083.ts
 #EXTINF:-1 tvg-id="starzwest.us" tvg-name="USA Starz West" tvg-logo="http://23.227.147.172:80/images/85c5f5ffb6f6f3dec97501947c4abf79.png" group-title="USA Movies Channels",USA Starz West
 http://jackofclubs.vip:80/jennbetz1/flatbutton45/176084.ts
 #EXTINF:-1 tvg-id="sundancetv.us" tvg-name="USA Sundance" tvg-logo="http://185.193.88.130:80/images/a98c685117f20ad990629d650e8dbda3.png" group-title="USA Movies Channels",USA Sundance
@@ -87,6 +85,46 @@ http://jackofclubs.vip:80/jennbetz1/flatbutton45/176085.ts
 http://jackofclubs.vip:80/jennbetz1/flatbutton45/175924.ts
 #EXTINF:-1 tvg-id="tfd.us" tvg-name="USA The Film Detective" tvg-logo="http://185.193.88.130:80/images/1ec840eb41fdb36d89490ec8b75fc717.png" group-title="USA Movies Channels",USA The Film Detective
 http://jackofclubs.vip:80/jennbetz1/flatbutton45/175944.ts
+#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="USA Starz Kids & Family" tvg-logo="http://23.227.147.172:80/images/a6596626085d2e16f02abc98b82d3f89.jpg" group-title="USA Family & Kids",USA Starz Kids & Family
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176083.ts
+#EXTINF:-1 tvg-id="babyfirst.us" tvg-name="USA Baby First LHD" tvg-logo="http://172.110.220.61:80/images/c7d550d5f7b41c7182bef7c9660d199d.png" group-title="USA Family & Kids",USA Baby First LHD
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176236.ts
+#EXTINF:-1 tvg-id="babytv.us" tvg-name="USA Baby TV" tvg-logo="http://185.193.88.130:80/images/a9b6fe6f6ee3126a4a988eeee3b95a41.png" group-title="USA Family & Kids",USA Baby TV
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176237.ts
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="USA Boomerang*" tvg-logo="http://172.110.220.61:80/images/b6468cce7b4379ef663c90b5fd1cd12d.png" group-title="USA Family & Kids",USA Boomerang*
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176238.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="USA Cartoon Network East*" tvg-logo="http://185.193.88.130:80/images/e928e9dd0182d30f9038da9b7f2096ba.png" group-title="USA Family & Kids",USA Cartoon Network East*
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176241.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="USA Cartoon Network UHD*" tvg-logo="http://23.227.147.172:80/images/7f05ab0a809092eea133c0032dc23370.jpg" group-title="USA Family & Kids",USA Cartoon Network UHD*
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176243.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="USA Cartoon Network West*" tvg-logo="http://172.110.220.61:80/images/cde35ab1bb99263f8a1653295a95daec.png" group-title="USA Family & Kids",USA Cartoon Network West*
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176245.ts
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="USA Disney Channel" tvg-logo="http://172.110.220.61:80/images/80551e52b3a89eba7f797cdc7c766868.png" group-title="USA Family & Kids",USA Disney Channel
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176246.ts
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="USA Disney Channel East" tvg-logo="http://172.110.220.61:80/images/575ba9293a2e530491717e16627eb796.png" group-title="USA Family & Kids",USA Disney Channel East
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176248.ts
+#EXTINF:-1 tvg-id="DisneyChannelwest.us" tvg-name="USA Disney Channel West LHD" tvg-logo="http://23.227.147.172:80/images/80551e52b3a89eba7f797cdc7c766868.png" group-title="USA Family & Kids",USA Disney Channel West LHD
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176250.ts
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="USA Disney Junior East" tvg-logo="http://23.227.147.172:80/images/a4c1ab9e1701a4d74ca3da06763df0ba.png" group-title="USA Family & Kids",USA Disney Junior East
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176252.ts
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="USA Disney Junior West LHD" tvg-logo="http://185.193.88.130:80/images/a4c1ab9e1701a4d74ca3da06763df0ba.png" group-title="USA Family & Kids",USA Disney Junior West LHD
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176256.ts
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="USA Disney XD" tvg-logo="http://172.110.220.61:80/images/db428ae926eb82cf6193f4c19c681385.png" group-title="USA Family & Kids",USA Disney XD
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176257.ts
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="USA Disney XD East LHD" tvg-logo="http://23.227.147.172:80/images/a4781e23254fed3afd3f237398656308.png" group-title="USA Family & Kids",USA Disney XD East LHD
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176258.ts
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="USA Disney XD West" tvg-logo="http://185.193.88.130:80/images/a4781e23254fed3afd3f237398656308.png" group-title="USA Family & Kids",USA Disney XD West
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176261.ts
+#EXTINF:-1 tvg-id="pbskids.us" tvg-name="USA PBS Kids" tvg-logo="http://172.110.220.61:80/images/eeea0cc7f2e33b1498d3f4801f601d66.png" group-title="USA Family & Kids",USA PBS Kids
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176263.ts
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="USA Nick Jr East" tvg-logo="http://23.227.147.172:80/images/d7631880e6369be8a85519948225d109.png" group-title="USA Family & Kids",USA Nick Jr East
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176264.ts
+#EXTINF:-1 tvg-id="teennick.us" tvg-name="USA Teen Nick" tvg-logo="http://185.193.88.130:80/images/6b578fbb2904aa87e22bb3fd4b622031.png" group-title="USA Family & Kids",USA Teen Nick
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176265.ts
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="USA Nick Toon UHD" tvg-logo="http://172.110.220.61:80/images/1a02274480cf52f8810af5aed118f5c3.png" group-title="USA Family & Kids",USA Nick Toon UHD
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176266.ts
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="USA Nickelodeon UHD" tvg-logo="http://185.193.88.130:80/images/b3919e8df8a9ac60c53d2ef1a30e20e7.png" group-title="USA Family & Kids",USA Nickelodeon UHD
+http://jackofclubs.vip:80/jennbetz1/flatbutton45/176267.ts
 
 
 
